@@ -4,6 +4,8 @@
 
 ### Project Description: This Power BI dashboard provides insights into eCommerce sales performance, offering a comprehensive view of key metrics and data trends. The dashboard is designed to help stakeholders understand sales performance through interactive elements and key performance indicators.
 
+![Image ](https://github.com/user-attachments/assets/7876687e-d3af-47e4-b01d-f2eac6b63ecb)
+
 ### Features:
 
 ### Slicers:
