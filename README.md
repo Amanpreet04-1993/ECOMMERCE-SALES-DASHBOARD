@@ -20,6 +20,11 @@ Total Profit: $37,000           Total Profit reflects the total profit earned fr
 Average Order Value: $121,000   Average Order Value shows the average revenue per order.
 
 
+### Chart:
+Regional profits (topN)
+Stacked bar chart made with all states possibly could show to top States that shows region wise profits
+
+
 
 
 
