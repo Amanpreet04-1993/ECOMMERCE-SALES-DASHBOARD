@@ -20,11 +20,30 @@ Total Profit: $37,000           Total Profit reflects the total profit earned fr
 Average Order Value: $121,000   Average Order Value shows the average revenue per order.
 
 
-### Chart:
-Regional profits (topN)
-Stacked bar chart made with all states possibly could show to top States that shows region wise profits
+### Charts :
+Regional Profits (Top N) - Stacked Bar Chart This chart displays the top states by regional profits, showing profits categorized by region for each state. 
+It provides a clear view of which states contribute the most to each region's profits.
 
+Clustered Column Chart This chart illustrates revenue and total earnings from each client in decreasing order. 
+It helps in understanding the revenue distribution across individual clients.
 
+Donut Chart This chart shows the distribution of revenue across three categories: Clothing, Electronics, and Furniture. 
+For example, it reveals that 46.6% of revenue comes from Clothing, 32.4% from Electronics, and 20.8% from Furniture.
 
+Pie Chart Complementing the donut chart, this pie chart provides the percentage of preferred payment methods among clients. 
+For instance, it shows that 39.9% of people prefer Cash on Delivery, 18.82% use UPI, 15.65% use Credit Cards, 14.89% opt for EMI, and 11.25% use Debit Cards.
 
+Stacked Column Chart This chart presents monthly profits, highlighting that May, July, September, and December are typically loss-making months, 
+while other months show substantial profit increases.
+
+Stacked Bar Chart This chart helps identify which category has the most potential and the major sources of profit. 
+For example, it indicates that selling printers generated a profit of 8606, while two bookcases brought in a total revenue of 6515.
+
+.
+.
+.
+.
+.
+.
+Thanks.
 
